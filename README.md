@@ -1,6 +1,10 @@
-## salve galerinha do canal
-
-<!--
+## Bem vindo ao meu perfil
+       Meu nome é João Arthur
+> utilizo esse espaço para organizar e compartilhar meus projetos desenvolvidos
+> Estou me desenvolvendo no JavaScript
+> Estou estudando na Alura
+> VOCÊ PODE ENTRAR EM CONTATO COMIGO POR AQUI:
+> 00001134399108sp@al.educacao.sp.gov.br
 **jaozzinxj019/jaozzinxj019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
